@@ -11,6 +11,7 @@
 
 	<properties>
 		<github.projectName>test-maven-release-with-git---submodule</github.projectName>
+		<github.projectOwner>alxndrsn</github.projectOwner>
 	</properties>
 
 	<distributionManagement>
